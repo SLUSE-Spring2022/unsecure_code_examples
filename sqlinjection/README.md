@@ -1,4 +1,6 @@
-# This code was cloned from: <a href="https://github.com/guilatrova/flask-sqlinjection-vulnerable.git">This repo</a>. I made a copy of this code because I wanted to have multiple unsave code examples in the same repo.
+# This code was cloned from <a href="https://github.com/guilatrova/flask-sqlinjection-vulnerable.git">This repo</a>. I made a copy of this code because I wanted to have multiple unsave code examples in the same repo.
+
+A detailed article about this code is posted <a href="https://guicommits.com/how-sql-injection-attack-works-with-examples/">here</a>
 
 # Flask Vulnerable to SQL Injection 💉🔓
 
